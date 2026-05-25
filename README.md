@@ -15,7 +15,7 @@
 | **Written On** | May 25, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/lingering-sweet-ache/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Lingering Sweet Ache](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/lingering-sweet-ache/) |
+| **Get License** | [Music Rights & Licensing for Lingering Sweet Ache](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/lingering-sweet-ache/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> There's a shadow on the floorboard where the moonlight meets your skin
+> The rhythm of your breathing is pulling my body in
+> It’s a slow-burn fire, building in the dark
+> Leaving a lingering sweet ache right across my heart
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
