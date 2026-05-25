@@ -15,7 +15,7 @@
 | **Written On** | May 25, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/lingering-sweet-ache/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Lingering Sweet Ache](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/lingering-sweet-ache/) |
+| **Get License** | [Secure Licensing Rights for Lingering Sweet Ache](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/lingering-sweet-ache/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `def65d16b24a10453468a73a61ce32b4ae729be9bdd55d84ab5c1b1b3dd0d61b` |
 | **Timestamp** | May 25, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
